@@ -3,9 +3,9 @@
 
 > MV-Soccer: Motion-Vector Augmented Instance Segmentation for Soccer Player Tracking  
 > [Fahad Majeed](https://www.linkedin.com/in/fahad-majeed/),  [Jens Schneider](https://scholar.google.com/citations?hl=en&user=em4IRO4AAAAJ&view_op=list_works&sortby=pubdate)  
-> CVPR 2024
+> CVPR 2024  <br>
 <a><img src="1.png" width="1000"></a> <br>
-<a><img src="pali.png" width="1000"></a> <br>
+
 ##### Motion Vectors
 
 H.264 uses different techniques to reduce the size of a raw video frame before sending it over a network or storing it into a file. One of those techniques is motion estimation and predicting future frames based on previous or future frames. Each frame is split into 16-pixel x 16-pixel large macroblocks. During encoding, motion estimation matches every macroblock to a similar-looking macroblock in a previously encoded frame (note that this frame can also be a future frame since encoding and playout order might differ). This allows the transmission of only those motion vectors and the reference macroblock instead of all macroblocks, effectively reducing the amount of transmitted or stored data. <br>
