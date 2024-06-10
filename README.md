@@ -2,10 +2,8 @@
 <!-- ### [Project Page](https://drinkingcoder.github.io/publication/flowformer/)  -->
 
 > MV-Soccer: Motion-Vector Augmented Instance Segmentation for Soccer Player Tracking  
-> [Fahad Majeed](https://xiaoyushi97.github.io/),  [Jens Schneider](https://www.ee.cuhk.edu.hk/~hsli/)  
+> [Fahad Majeed](https://www.linkedin.com/in/fahad-majeed/),  [Jens Schneider](https://scholar.google.com/citations?hl=en&user=em4IRO4AAAAJ&view_op=list_works&sortby=pubdate)  
 > CVPR 2024
-
-https://github.com/MrFahad/MV-Soccer.mp4
 
 ##### Motion Vectors
 
