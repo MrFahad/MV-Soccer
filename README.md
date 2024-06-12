@@ -1,4 +1,4 @@
-# [MV-Soccer: Motion-Vector Augmented Instance Segmentation for Soccer Player Tracking] <br> <a><img src="cvpr.png" width="300"></a>
+# [MV-Soccer: Motion-Vector Augmented Instance Segmentation for Soccer Player Tracking](https://github.com/MrFahad/MV-Soccer/) <br> <a><img src="cvpr.png" width="300"></a>
 
 > MV-Soccer: Motion-Vector Augmented Instance Segmentation for Soccer Player Tracking  
 > [Fahad Majeed](https://www.linkedin.com/in/fahad-majeed/),  [Jens Schneider](https://scholar.google.com/citations?hl=en&user=em4IRO4AAAAJ&view_op=list_works&sortby=pubdate)  
