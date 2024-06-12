@@ -5,7 +5,7 @@
 
 Some introductory text about your project.
 
-![Demo](https://github.com/MrFahad/mv-extractor/mv.gif)
+![Demo](https://github.com/MrFahad/MV-Soccer/mv-extractor/mv.gif)
 
 ## Features
 
