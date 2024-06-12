@@ -1,0 +1,6 @@
+streamlit
+opencv-python
+numpy
+stqdm
+deep-sort-realtime
+ultralytics
