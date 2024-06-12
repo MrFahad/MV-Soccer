@@ -1,6 +1,3 @@
-<a><img src="mv.gif" width="1000"></a>
-
-
 # Motion-Vector Extraction
 
 Some introductory text about your project.
