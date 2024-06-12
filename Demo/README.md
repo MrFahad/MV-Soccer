@@ -8,7 +8,7 @@ git clone https://github.com/MrFahad/MV-Soccer.git
 ```
 - Goto the cloned folder.
 ```
-cd Demo
+cd mv-soccer
 ```
 - Create a Virtual Envirnoment:
 ```
