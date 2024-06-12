@@ -22,6 +22,9 @@ activate
 ```
 ## Steps to run Code:
 ```
+cd Demo
+```
+```
 python rest.py
 ```
 ``` 
