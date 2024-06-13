@@ -28,11 +28,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you use our work for academic research, please cite
 
 ```
-@inproceedings{MV-Soccer,
-  title={MV-Soccer: Motion-Vector Augmented Instance Segmentation for Soccer Player Tracking},
-  author={Fahad Majeed, Nauman Ullah Gilal, Khaled A. Althelya, Yin Yang, Marco Agus, Jens Schneider},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={0000--0000},
-  year={2024}
+@InProceedings{Majeed_2024_CVPR,
+    author    = {Majeed, Fahad and Gilal, Nauman Ullah and Al-Thelaya, Khaled and Yang, Yin and Agus, Marco and Schneider, Jens},
+    title     = {MV-Soccer: Motion-Vector Augmented Instance Segmentation for Soccer Player Tracking},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2024},
+    pages     = {3245-3255}
 }
 ```
