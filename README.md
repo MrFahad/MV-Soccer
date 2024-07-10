@@ -17,7 +17,9 @@ and an impressive 99% on the SoccerPro (our) dataset. <br>
 ### Motion Vectors - (Intuition behind):
 > Static vs. Dynamic Scenarios.
 
-<a><img src="3.gif" width="1000"></a> <a><img src="2.gif" width="1000"></a> <br>
+<a><img src="3.gif" width="1000"></a> <br>
+> Final Output.
+<a><img src="2.gif" width="1000"></a> <br>
 
 ## About
 
