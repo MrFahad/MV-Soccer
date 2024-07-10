@@ -1,6 +1,4 @@
-# MV-Soccer: Motion-Vector Augmented Instance Segmentation for Soccer Player Tracking
-
-## 1. Project Demo Page:-
+# MV-Soccer Demo Page:-
 
 - Clone the repository
 ```
@@ -10,7 +8,7 @@ git clone https://github.com/MrFahad/MV-Soccer.git
 ```
 cd mv-soccer/Demo
 ```
-- Create a Virtual Envirnoment:
+- Create a Virtual Environment:
 ```
 ## For Linux Users
 python -m venv mv-soccer
@@ -19,10 +17,14 @@ source mv-soccer/bin/activate
 ## For Windows Users
 python -m venv mv-soccer
 activate
-
 ```
+- Install the required libraries:
+```
+!pip install -r requirements.txt
+```
+
 ## Model:
-- Download the model and place it in Demo/models folder.
+- Download the model and place it in the Demo/models folder.
 > [Model](https://tinyurl.com/vszdd2ju)
 
 ## Run the App:
