@@ -1,7 +1,7 @@
 # [MV-Soccer: Motion-Vector Augmented Instance Segmentation for Soccer Player Tracking](https://github.com/MrFahad/MV-Soccer/) <br> <a><img src="cvpr.png" width="300"></a>
 
 > MV-Soccer: Motion-Vector Augmented Instance Segmentation for Soccer Player Tracking  
-> [Fahad Majeed](https://www.linkedin.com/in/fahad-majeed/),  [Jens Schneider](https://scholar.google.com/citations?hl=en&user=em4IRO4AAAAJ&view_op=list_works&sortby=pubdate)  
+> [Fahad Majeed](https://www.linkedin.com/in/fahad-majeed/),  [Google Scholar](https://tinyurl.com/38jbwxvx)  
 > CVPR 2024  <br>
 <a><img src="1.png" width="1000"></a> <br>
 
@@ -23,8 +23,7 @@ Fahad Majeed, PhD from HBKU, Qatar, develops this software. The motion vector ex
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 #### Citation
-
-If you use our work for academic research, please cite
+If you find our work interesting and use it work for academic research, please cite
 
 ```
 @InProceedings{Majeed_2024_CVPR,
@@ -34,5 +33,6 @@ If you use our work for academic research, please cite
     month     = {June},
     year      = {2024},
     pages     = {3245-3255}
+    url       = https://lnkd.in/d7Z4GsjV 
 }
 ```
