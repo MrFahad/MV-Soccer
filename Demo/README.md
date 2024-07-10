@@ -22,7 +22,7 @@ activate
 
 ```
 ## Model:
-
+- Download the model and place it in Demo/models folder.
 > [Model](https://tinyurl.com/vszdd2ju)
 
 ## Run the App:
