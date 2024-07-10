@@ -121,8 +121,8 @@ if not os.path.exists("models/"):
     os.makedirs("models/")
 model_list = [model_name.strip() for model_name in open("model_list.txt").readlines()]
 st.set_page_config(page_title="MV-Soccer", layout="wide", page_icon="./Icon.ico")
-st.title("MV-Soccer: Motion Vector Augmented Instance Segmentation for Soccer Player Tracking")
-# create select box for selecting ultralytics YOLOv8 model
+st.title("MV-Soccer")
+
 model_selectbox = st.empty()
 model_select = model_selectbox.selectbox("Select Model", model_list)
 print(f"Model: {model_select}")
