@@ -14,6 +14,9 @@ available datasets and a private dataset, SoccerPro, which we created. The reaso
 To validate the effectiveness of our approach, we conducted extensive experiments and attained 97% accuracy for the DFL - Bundesliga Data Shootout, 98% on the SoccerNet-Tracking dataset, 
 and an impressive 99% on the SoccerPro (our) dataset. <br>
 
+### Motion Vectors - (Intuition behind):
+> Static vs. Dynamic Scenarios.
+
 <a><img src="3.gif" width="1000"></a> <a><img src="2.gif" width="1000"></a> <br>
 
 ## About
