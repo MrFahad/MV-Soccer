@@ -23,7 +23,8 @@ activate
 ```
 ## Model:
 ``` 
-Please download the model [Model](https://tinyurl.com/vszdd2ju)
+> Please download the model [Model](https://tinyurl.com/vszdd2ju)
+
 ```
 ## Run the App:
 ``` 
