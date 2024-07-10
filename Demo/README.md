@@ -8,7 +8,7 @@ git clone https://github.com/MrFahad/MV-Soccer.git
 ```
 - Goto the cloned folder.
 ```
-cd mv-soccer
+cd mv-soccer/Demo
 ```
 - Create a Virtual Envirnoment:
 ```
@@ -20,14 +20,8 @@ source mv-soccer/bin/activate
 python -m venv mv-soccer
 activate
 ```
-## Steps to run Code:
-```
-cd Demo
-```
-```
-python rest.py
-```
+## Run the App:
 ``` 
-streamlit run rest.py
+streamlit run main.py
 ```
 Enjoy the app in localhost:8501
