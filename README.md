@@ -2,7 +2,7 @@
 
 > MV-Soccer: Motion-Vector Augmented Instance Segmentation for Soccer Player Tracking  
 > [Fahad Majeed](https://www.linkedin.com/in/fahad-majeed/),  [Google Scholar](https://tinyurl.com/38jbwxvx), [Paper](https://tinyurl.com/5cyschua)  
-> CVPR 2024  <br>
+
 <a><img src="1.png" width="1000"></a> <br>
 
 ### Abstract:
