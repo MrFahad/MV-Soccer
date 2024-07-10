@@ -19,6 +19,11 @@ source mv-soccer/bin/activate
 ## For Windows Users
 python -m venv mv-soccer
 activate
+
+```
+## Model:
+``` 
+Please download the model Link: ()
 ```
 ## Run the App:
 ``` 
