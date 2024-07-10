@@ -21,15 +21,15 @@ and an impressive 99% on the SoccerPro (our) dataset. <br>
 > Final Output.
 <a><img src="2.gif" width="1000"></a> <br>
 
-## About
+### About
 
 Fahad Majeed, PhD from HBKU, Qatar, develops this software. The motion vector extraction component is sourced from Lukas Bommes' repository, [MV-Extractor](https://github.com/LukasBommes/mv-extractor) 
 
-#### License
+### License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-#### Citation
+### Citation
 If you find our work interesting, please cite below:
 
 ```
