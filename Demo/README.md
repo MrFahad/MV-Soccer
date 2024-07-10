@@ -22,10 +22,9 @@ activate
 
 ```
 ## Model:
-``` 
-> Please download the model [Model](https://tinyurl.com/vszdd2ju)
 
-```
+> [Model](https://tinyurl.com/vszdd2ju)
+
 ## Run the App:
 ``` 
 streamlit run main.py
