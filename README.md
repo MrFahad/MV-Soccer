@@ -12,7 +12,9 @@ enhances the ability to distinguish between players, especially in scenarios inv
 (CSPDarknet53) as a backbone, for instance segmentation and integrates motion vectors, coupled with frame differencing. The model is simultaneously trained on two publicly 
 available datasets and a private dataset, SoccerPro, which we created. The reason for simultaneous training is to reduce biases and increase generalization ability. 
 To validate the effectiveness of our approach, we conducted extensive experiments and attained 97% accuracy for the DFL - Bundesliga Data Shootout, 98% on the SoccerNet-Tracking dataset, 
-and an impressive 99% on the SoccerPro (our) dataset.
+and an impressive 99% on the SoccerPro (our) dataset. <br>
+
+<a><img src="3.gif" width="500"></a> <a><img src="2.gif" width="500"></a> <br>
 
 ## About
 
