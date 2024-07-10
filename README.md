@@ -14,7 +14,7 @@ available datasets and a private dataset, SoccerPro, which we created. The reaso
 To validate the effectiveness of our approach, we conducted extensive experiments and attained 97% accuracy for the DFL - Bundesliga Data Shootout, 98% on the SoccerNet-Tracking dataset, 
 and an impressive 99% on the SoccerPro (our) dataset. <br>
 
-<a><img src="3.gif" width="600"></a> <a><img src="2.gif" width="400"></a> <br>
+<a><img src="3.gif" width="540"></a> <a><img src="2.gif" width="460"></a> <br>
 
 ## About
 
