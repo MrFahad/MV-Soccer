@@ -1,5 +1,5 @@
 # MV-Soccer Demo Page:-
-<a><img src="2.png" width="1000"></a> <br>
+<a><img src="2.gif" width="1000"></a> <br>
 - Clone the repository
 ```
 git clone https://github.com/MrFahad/MV-Soccer.git
