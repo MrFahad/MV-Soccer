@@ -32,7 +32,7 @@ If you find our work interesting and use it work for academic research, please c
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
     month     = {June},
     year      = {2024},
-    pages     = {3245-3255}
-    url       = https://tinyurl.com/5cyschua
+    pages     = {3245-3255},
+    url       = {https://tinyurl.com/5cyschua}
 }
 ```
