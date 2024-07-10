@@ -33,6 +33,6 @@ If you find our work interesting and use it work for academic research, please c
     month     = {June},
     year      = {2024},
     pages     = {3245-3255}
-    url       = https://lnkd.in/d7Z4GsjV 
+    url       = https://tinyurl.com/5cyschua
 }
 ```
