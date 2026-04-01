@@ -28,7 +28,7 @@ Fahad Majeed, PhD from HBKU, Qatar, develops this software. The motion vector ex
 
 ## License
 
-Copyright (C) 2026 YOUR NAME HERE
+Copyright (C) 2026 Fahad Majeed.
 
 This project is licensed under the GNU General Public License v3.0.
 
